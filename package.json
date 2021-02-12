@@ -1,0 +1,16 @@
+{
+  "name": "typerminal",
+  "version": "1.0.0",
+  "description": "Bash terminal for windows",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ghostfighter50",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/node": "^14.14.27",
+    "chalk": "^4.1.0"
+  }
+}
