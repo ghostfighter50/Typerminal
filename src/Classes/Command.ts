@@ -9,9 +9,9 @@ super()
 
 async execute(command:string){
 
-await exec(command, (err , stdout) => {
+await exec(command, (err , stdout, stderr) => {
     if(err) { return console.log(command + ": not found")} 
-    else {this.emit("command",{"stdin" : command, "stdout" : stdout} )} 
+    else {this.emit("command", stdout)} 
 })
 
 }  
