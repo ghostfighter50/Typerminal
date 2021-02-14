@@ -21,7 +21,9 @@ npm i && npm i -g ts-node  #installs the required packages
 
 ts-node . #checks if it's installed
 ```
-##Screenshots
+
+## Screenshots
+
 ## Author
 
 👤 **Ghostfighter50**
