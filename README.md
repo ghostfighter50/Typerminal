@@ -43,7 +43,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2020 [Ghostfighter50](https://github.com/ghostfighter50).<br />
+Credit [Ghostfighter50](https://github.com/ghostfighter50).<br />
 This project is [ISC](https://github.com/ghostfighter50/Typerminal/blob/master/LICENSE) licensed.
 
 ***
