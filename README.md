@@ -44,7 +44,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Credit [Ghostfighter50](https://github.com/ghostfighter50).<br />
-This project is [ISC](https://github.com/ghostfighter50/Typerminal/blob/master/LICENSE) licensed.
+This project is [ISC](https://github.com/ghostfighter50/Typerminal/blob/main/LICENSE) licensed.
 
 ***
 
