@@ -25,7 +25,7 @@ ts-node . #checks if it's installed
 ## Screenshots
 
 ![Screenshot 1](/screenshots/term1(1).jpg?raw=true "Interactive")
-![Screenshot 2](/screenshots/term2.jpg?raw=true "with aliases")
+![Screenshot 2](/screenshots/term2(1).jpg?raw=true "with aliases")
 
 ## Author
 
