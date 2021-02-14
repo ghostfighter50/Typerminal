@@ -144,14 +144,14 @@ rl.on("line", () => {
 
                         if(!args[2]) console.log("Usage :\nalias create <name> <value>\n alias delete <name>\nalias edit <name> <new value>\n alias list"); setTimeout(() => { rl.emit("line")}, 100) 
                         
-                        aliases.delete(args[2].toString())
+                        aliases.delete(args[2])
                         setTimeout(() => { rl.emit("line")}, 100)
                     }
                     else if(args[1] == "edit") {
 
                         if(!args[2] || !args[3]) console.log("Usage :\nalias create <name> <value>\n alias delete <name>\nalias edit <name> <new value>\n alias list"); setTimeout(() => { rl.emit("line")}, 100) 
                        
-                        aliases.edit(args[2].toString(), args[3].toString())
+                        aliases.edit(args[2], args[3])
                         setTimeout(() => { rl.emit("line")}, 100)
                     }
                     else console.log("Usage :\nalias create <name> <value>\n alias delete <name>\nalias edit <name> <new value>\n alias list"); setTimeout(() => { rl.emit("line")}, 100) 
