@@ -17,7 +17,7 @@ git clone https://github.com/ghostfighter50/Typerminal #downloads the repository
 
 cd Typerminal #navigates into repository folder
 
-npm i && npm i -g ts-node && npm i -g tiny-cli-editor  #installs the required packages
+npm i && npm i -g ts-node  #installs the required packages
 
 ts-node . #checks if it's installed
 ```
